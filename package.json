@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "expo-contacts": "^8.2.1",
-    "expo-permissions": "^9.0.1"
-  }
-}
